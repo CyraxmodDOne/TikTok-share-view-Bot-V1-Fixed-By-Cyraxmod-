@@ -1,0 +1,18 @@
+[[package]]
+name = "pystyle"
+version = "1.5"
+description = "by Shadow Sanctuary, with the help of ELQ"
+category = "main"
+optional = false
+python-versions = "*"
+
+[metadata]
+lock-version = "1.1"
+python-versions = "^3.8"
+content-hash = "c665c3daaa16519123d41258320bfa14d336c803c1ae29a7dfbab86e9d70ef4d"
+
+[metadata.files]
+pystyle = [
+    {file = "pystyle-1.5-py3-none-any.whl", hash = "sha256:398a2b828ae3d6debab1f0c968f8a99982d8a468dd8073331b7969a1494baa1b"},
+    {file = "pystyle-1.5.tar.gz", hash = "sha256:8f8eb5b1dab1caac5da6129b8f9890df8a3c1b76ebf5be74538c26e9677abd86"},
+]
